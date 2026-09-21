@@ -40,7 +40,7 @@ Responder a essa pergunta de forma estruturada, traduzindo-a em dez perguntas de
 
 O projeto segue um pipeline linear, onde cada etapa consome a saída da anterior: os dados brutos são tratados com Pandas, carregados no PostgreSQL, e a partir do banco se ramificam em duas frentes de consumo - as consultas SQL, que respondem às perguntas de negócio, e o Power BI, que consolida os resultados num dashboard interativo.
 
-![](src/diagrama_arquitetura-projeto)
+![](src/diagrama_arquitetura-projeto.png)
 
 ## Etapas da Análise:
 
