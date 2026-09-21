@@ -1,0 +1,5 @@
+pandas==2.3.3
+python-dotenv>=1.0.0
+SQLAlchemy>=2.0.0
+psycopg2-binary==2.9.13
+watermark==2.6.0
